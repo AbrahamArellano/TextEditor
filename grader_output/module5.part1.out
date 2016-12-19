@@ -1,0 +1,8 @@
+** Test 1: distanceOne list size from: 'word'... distanceOne returned 5 words.
+** Test 2: distanceOne words returned from: 'word'... words, lord, ward, wore, worn, 
+** Test 3: distanceOne list size (allowing non-words)... distanceOne with non-words returned from 'word' 230 words.
+** Test 4: deletions list size from 'markers'... deletions returned 2 words.
+** Test 5: deletions words returned from 'markers'... deletions returned: makes, maker, 
+** Test 6: insertions list size from 'or'... insertions returned 3 words.
+** Test 7: insertions words returned from 'or'... insertions returned: tor, oar, ore, 
+Tests complete. Check that everything looks right.
